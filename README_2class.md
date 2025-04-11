@@ -33,4 +33,4 @@ A dataset with two weather classes:
 ---
 
 ## 👤 Author
-Created by [Your Name] for machine learning practice and model explainability.
+Created by [Mahsa Naservand] for machine learning practice and model explainability.
